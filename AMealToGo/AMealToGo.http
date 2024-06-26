@@ -1,0 +1,6 @@
+@AMealToGo_HostAddress = http://localhost:5226
+
+GET {{AMealToGo_HostAddress}}
+Accept: application/json
+
+###
